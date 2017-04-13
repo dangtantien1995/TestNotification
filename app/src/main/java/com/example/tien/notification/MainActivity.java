@@ -67,6 +67,10 @@ public class MainActivity extends AppCompatActivity {
     private void AddEvent() {
         btnTao = (Button) findViewById(R.id.buttonTao);
         btnDong = (Button) findViewById(R.id.buttonDong);
+        
+        OkImFine();
+    }
 
+    private void OkImFine() {
     }
 }
