@@ -69,6 +69,10 @@ public class MainActivity extends AppCompatActivity {
         btnDong = (Button) findViewById(R.id.buttonDong);
         
         OkImFine();
+        OkImFine2();
+    }
+
+    private void OkImFine2() {
     }
 
     private void OkImFine() {
